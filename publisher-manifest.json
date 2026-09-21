@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "31877929d21fa4d3d9cbf1be",
+  "owner": "pbgkqv",
+  "repo": "page-54c2113feaf303aff36778df",
+  "title": "免流(EASY)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "54c2113feaf303aff36778df",
+      "a": "免流(EASY)",
+      "b": "稳定全球clash加速器",
+      "entity": "免流(EASY)",
+      "brand": "免流(EASY)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f24648f8477e98b48b01b865b595d34975fc3c71293fd701278f0f98064876fd",
+      "content": {
+        "primary_entity": "免流(EASY)",
+        "keyword1": "免流(EASY)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "依据设备数量与流量需求选定套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选定套餐，轻松连接",
+          "AI_DESCRIPTION": "，围绕多设备与流媒体场景提供三档订阅，基础版适合轻度使用，旗舰版强化专线游戏与原生流媒体，团队版覆盖多设备高流量需求，客户端按系统选择后导入订阅即可。",
+          "AI_FEATURES_INTRO": "从设备数量、流量和线路三方面选择适合的套餐。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、3台设备；旗舰版300GB、5台设备；团队版1000GB、20台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版与团队版提供更优线路，覆盖流媒体解锁与专线游戏优化场景。",
+          "AI_FEATURE_TEXT_3": "月付与年付并行，年付基础版¥150、旗舰版¥350、团队版¥850，按使用周期灵活选择。",
+          "AI_FEATURE_TITLE_1": "套餐分级",
+          "AI_FEATURE_TITLE_2": "线路选择",
+          "AI_FEATURE_TITLE_3": "周期灵活",
+          "AI_GUIDE_INTRO": "从选套餐到完成配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "免流(EASY)提供按月或按年订阅的加速服务，覆盖基础流媒体、专线游戏与多设备场景，结合设备数量与流量需求选择套餐，并在常用客户端中导入订阅进行配置。",
+          "AI_HERO_SUBTITLE": "多设备流媒体加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "年付方案更省费用",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "基础版¥15/月，旗舰版¥35/月，团队版¥85/月，年付分别¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐方案",
+          "AI_STEP_TEXT_1": "根据日常设备数量与流量消耗，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "对照套餐说明查看设备数量、流量额度与线路适配，确认满足使用场景。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅，依照客户端文档完成节点选择与连接配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "免流(EASY)订阅加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "免流(EASY)支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "可导入常见客户端使用，具体支持情况按设备系统选择对应版本，并以客户端文档说明为准。建议先确认设备系统与客户端兼容后再订阅。",
+          "AI_FAQ_QUESTION_2": "三个套餐的设备数量有什么不同？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。按日常需要同时在线的设备数量选择对应档位即可。",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选？",
+          "AI_FAQ_ANSWER_3": "基础版¥15/月，年付约¥150；旗舰版¥35/月，年付约¥350；团队版¥85/月，年付约¥850。长期使用的话年付折算月均更低。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在选定套餐后获取订阅信息，打开对应客户端选择导入订阅，按客户端文档填写并保存，完成配置后即可连接使用。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月1000GB流量、20台设备同时在线、VIP专属高带宽节点和定制路由，适合多人协作或设备较多的使用环境。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "neciffq.cn",
+    "host": "neciffq.cn"
+  },
+  "file_hashes": {
+    "index.html": "699c9fc7b47904ad9e57928dfdd647291c0bdeab1ac86e40c8f389f70e8eee63",
+    "sitemap.xml": "a77125e89cff260984ef5b2a0380aeca68e82d0daf31d54f51df16c1bb2c8f2f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bfe5851eb4e7683ddcb1edd2472c181e6eb9575fa65e2c9531cb3b9775ba929b",
+    "robots.txt": "941b88f89ee901ba7db9ebd50f6937fe10270bea4c5c538aec3540ab48cc7fb6",
+    "2eba5efe09a3e01494ff67801e1bd02a.txt": "4118d8a249cf17427d3be556f83539e842986d2435e96fa2f5a2417153e30c8b"
+  },
+  "revision": "07f3734adc530283b22ab13fa03814e4ac7cb2dde7f31fe328f06daf3a78b96b"
+}
